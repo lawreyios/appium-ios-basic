@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "32da27255a7fdc7ff0a58382a099e894"
-build_time: [1534524385, 799558000]
-inputs:
-  "/Users/lawrey/Documents/workspace/AppiumTest/AppiumTest/ViewController.swift": [9223372036, 854775807]
-  "/Users/lawrey/Documents/workspace/AppiumTest/AppiumTest/AppDelegate.swift": [9223372036, 854775807]
